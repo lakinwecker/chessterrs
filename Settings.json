@@ -1,0 +1,6 @@
+{
+    "slack_tokens": {
+        "lichess4545": "<PROVIDE-IN-ENV-FILE>",
+        "chesster": "<PROVIDE-IN-ENV-FILE>"
+    }
+}
