@@ -5,4 +5,5 @@ authors = ["Lakin Wecker <lakin@structuredabstraction.com>"]
 
 [dependencies]
 slack = "*"
+nom = "^2.2"
 config = { version="0.4", features=["json"] }

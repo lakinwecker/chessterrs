@@ -3,6 +3,7 @@ name = "chessterrs"
 version = "0.1.0"
 dependencies = [
  "config 0.4.1 (registry+https://github.com/rust-lang/crates.io-index)",
+ "nom 2.2.1 (registry+https://github.com/rust-lang/crates.io-index)",
  "slack 0.16.0 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
 
